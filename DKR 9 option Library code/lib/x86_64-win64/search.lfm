@@ -1,0 +1,9 @@
+object fSearch: TfSearch
+  Left = 1257
+  Height = 240
+  Top = 118
+  Width = 320
+  Caption = 'Найти запись'
+  DesignTimePPI = 120
+  LCLVersion = '2.2.6.0'
+end
